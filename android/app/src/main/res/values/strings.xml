@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stashly</string>
+    <string name="widget_summary_label">Stashly · Savings</string>
+    <string name="widget_summary_description">Your total, this month and a quick Save button</string>
+    <string name="widget_mini_label">Stashly · Progress</string>
+    <string name="widget_mini_description">Overall progress ring with a Save shortcut</string>
+</resources>
